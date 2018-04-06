@@ -1,0 +1,17 @@
+Synthesis
+
+What do you think we were trying to get you to learn with this challenge?
+
+- How to create and calculate information given between two class objects utilizing hashes, arrays and basic math.
+
+Outline in words (at least 5-6 sentences) what your code is doing in order to solve this problem.
+
+- I've basically created two attributes within the Activity class (activity.rb).  The @name method takes an argument of name.  The @participants methods is defined by an empty array.  The activity_test.rb essentially tests that these two items exists.
+
+What was the most difficult portion of this for you?
+
+- I'm really struggling with hashes, like one might struggle with a bull when they've taken it by the horns.
+
+What came naturally to you?
+
+- Testing.  Since it used was my previous profession, I find that utilizing the test driven development is helping me better understand how to code in Ruby.
